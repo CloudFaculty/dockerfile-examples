@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bbachi/dockerfile-examples.git"
+    "url": "git+https://github.com/UNAME/dockerfile-examples.git"
   },
   "author": "Bhargav Bachina",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/bbachi/dockerfile-examples/issues"
+    "url": "https://github.com/UNAME/dockerfile-examples/issues"
   },
-  "homepage": "https://github.com/bbachi/dockerfile-examples#readme",
+  "homepage": "https://github.com/UNAME/dockerfile-examples#readme",
   "dependencies": {
     "express": "^4.16.4"
   }
